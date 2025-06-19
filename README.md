@@ -25,8 +25,6 @@
 - 📱 Fully responsive on all devices  
 - 🌐 Deployed and publicly accessible
 
-## 🧠 (Optional) AI Integration
-🪴 **Future Scope**: You can integrate an AI-powered assistant or plant recommendation engine using APIs (like OpenAI or HuggingFace) to suggest environment-friendly practices or plant types based on user input.
 
 ## 👨‍💻 Creators ❤️
 - 🧑‍💻 Anirudh  
