@@ -38,4 +38,4 @@
 <!-- Optional Screenshot -->
 <!-- ![Website Preview](./preview.png) -->
 
-<p align="center">Made with 💚 for a greener tomorrow 🌍<br/>— ❤️Anirudh & Palkin❤️</p>
+<p align="center">Made with 💚 for a greener tomorrow 🌍<br/>❤️Anirudh & Palkin❤️</p>
