@@ -1,2 +1,41 @@
-# Plant.It_Black-Rock
-plant.it
+<h1 align="center">🌱 Plant It - Black Rock</h1>
+<p align="center">A sleek, eco-friendly landing page powered by modern web tech. Promoting sustainable living through a clean, intuitive design.</p>
+<p align="center"><a href="https://plant-it-black-rock.vercel.app/" target="_blank">🔗 Visit the Live Site</a></p>
+
+## 📖 About the Project
+**Plant It** is a minimalist and responsive website that spreads awareness about environmental sustainability. Designed with elegance and a green-themed palette, it invites users to embrace nature and eco-conscious actions. Built to be lightweight, fast, and engaging — it’s perfect for campaigns, portfolios, or awareness initiatives.
+
+
+## 🛠 Tech Stack
+
+| Tech          | Description                                 |
+|---------------|---------------------------------------------|
+| 🟦 TypeScript  | Type-safe JavaScript for scalable structure |
+| ⚛️ React / Next.js (if used) | Powerful frontend frameworks      |
+| 🎨 CSS / Tailwind | Modern and responsive styling             |
+| ☁️ Vercel      | Deployment platform with CI/CD              |
+
+---
+
+
+## ✨ Key Features
+- ✅ Minimalist & mobile-friendly layout  
+- 🌿 Clean green-themed aesthetic  
+- ⚡ Fast and performant  
+- 📱 Fully responsive on all devices  
+- 🌐 Deployed and publicly accessible
+
+## 🧠 (Optional) AI Integration
+🪴 **Future Scope**: You can integrate an AI-powered assistant or plant recommendation engine using APIs (like OpenAI or HuggingFace) to suggest environment-friendly practices or plant types based on user input.
+
+## 👨‍💻 Creators ❤️
+- 🧑‍💻 Anirudh  
+- 👩‍💻 Palkin
+
+## 🚀 Live Preview
+👉 **Live Site:** [https://plant-it-black-rock.vercel.app/](https://plant-it-black-rock.vercel.app/)
+
+<!-- Optional Screenshot -->
+<!-- ![Website Preview](./preview.png) -->
+
+<p align="center">Made with 💚 for a greener tomorrow 🌍<br/>— ❤️Anirudh & Palkin❤️</p>
